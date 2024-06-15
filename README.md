@@ -1,1 +1,1 @@
-# deployment-kubernetes-argocd
+# kubernetes-argocd
